@@ -1,11 +1,10 @@
+ <div align="center">
+ <h1 align="center"> Overview </h1>
+
 <div align="center" style="display: inline_block">
-<br/>
 <h1 align="center"> 
   Olá! Eu sou Frederico! 👨🏻‍💻
 </h1>
-  
- <div align="center">
- <h1 align="center"> Overview </h1>
 
 <p>💡Estou cursando uma graduação de análise e desenvolvimento de sistemas. Pretendo seguir minha carreira nas áreas de programação e desenvolvimento. e estou sempre a procura de novas oportunidades e projetos!</p>
 
