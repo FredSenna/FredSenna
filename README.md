@@ -7,7 +7,7 @@
  <div align="center">
  <h1 align="center"> Overview </h1>
 
-<p>👨‍🎓Estou cursando análise e desenvolvimento de sistemas no Granbery. E pretendo seguir a carreira de programador/desenvolvedor.</p>
+<p>👨‍🎓Estou cursando uma graduação de análise e desenvolvimento de sistemas. Estou em busca de novos projetos/oportunidades na área de programação e desenvolvimento.</p>
 
 <img align="center" src="https://media.giphy.com/media/fByehYIrOIzO8XolJK/giphy.gif" width="100"> 
 <em><b>"As raízes do estudo são amargas, mas seus frutos são doces."</b></em>
