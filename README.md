@@ -1,25 +1,27 @@
 <div align="center" style="display: inline_block">
 <br/>
 <h1 align="center"> 
-  Olá! Eu sou Frederico!
+  Olá! Eu sou Frederico! 👨🏻‍💻
 </h1>
   
  <div align="center">
  <h1 align="center"> Overview </h1>
 
-<p>👨‍🎓Estou cursando análise e desenvolvimento de sistemas no Granbery.</p>
+<p>👨‍🎓Estou cursando análise e desenvolvimento de sistemas no Granbery. E pretendo seguir a carreira de programador/desenvolvedor.</p>
 
-<img align="center" src="https://media4.giphy.com/media/t4cCKrEkociVYDJrrr/giphy.gif?cid=ecf05e47atfpg3hv5oml0sya59azrepjprxuuw7pe936uecw&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"> 
-<em><b><b>"Tudo vale a pena quando a alma não é pequena."</b></em>
+<img align="center" src="https://media.giphy.com/media/fByehYIrOIzO8XolJK/giphy.gif" width="100"> 
+<em><b>"As raízes do estudo são amargas, mas seus frutos são doces."</b></em>
 
  <div/>
 
-![Alicia GitHub stats](https://github-readme-stats.vercel.app/api?username=FredSenna&show_icons=true&theme=merko)
-</div> 
+ <br/>
+
+![FredSenna GitHub stats](https://github-readme-stats.vercel.app/api?username=FredSenna&show_icons=true&theme=merko)
+
 <br/> 
 
 
- <h1 align="center"> Hard Skills✨</h1>
+ <h1 align="center"> Hard Skills💡</h1>
 
 
 <div align="center" style="display: inline_block"><br/>
@@ -33,7 +35,7 @@
 <br>  
 <br>  
    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliciadelg23)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FredSenna)](https://github.com/anuraghazra/github-readme-stats)
 
 </div> <br/>
 
