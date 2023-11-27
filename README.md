@@ -14,7 +14,7 @@
 
  <div/>
 
-![Alicia GitHub stats](https://github-readme-stats.vercel.app/api?username=aliciadelg23&show_icons=true&theme=merko)
+![Alicia GitHub stats](https://github-readme-stats.vercel.app/api?username=FredSenna&show_icons=true&theme=merko)
 </div> 
 <br/> 
 
