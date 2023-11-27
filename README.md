@@ -7,7 +7,7 @@
  <div align="center">
  <h1 align="center"> Overview </h1>
 
-<p>💡Estou cursando uma graduação de análise e desenvolvimento de sistemas. Pretendo seguir minha carreira nas áreas de programação e desenvolvimento, por isso estou sempre a procura de novas oportunidades e projetos!</p>
+<p>💡Estou cursando uma graduação de análise e desenvolvimento de sistemas. Pretendo seguir minha carreira nas áreas de programação e desenvolvimento. e estou sempre a procura de novas oportunidades e projetos!</p>
 
 <img align="center" src="https://media.giphy.com/media/fByehYIrOIzO8XolJK/giphy.gif" width="100"> 
 <em><b>"As raízes do estudo são amargas, mas seus frutos são doces."</b></em>
@@ -21,7 +21,7 @@
 <br/> 
 
 
- <h1 align="center"> Hard Skills💡</h1>
+ <h1 align="center"> Hard Skills⚡</h1>
 
 
 <div align="center" style="display: inline_block"><br/>
